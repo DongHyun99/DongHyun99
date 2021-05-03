@@ -4,6 +4,7 @@
 
   - Machine Learning
   - Data Science
+  - Algorithm
 
 ![donghyun's github stats](https://github-readme-stats.vercel.app/api?username=DongHyun99&show_icons=true&include_all_commits=true&theme=dracula)
 
