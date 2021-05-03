@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Donghyun's%20Studyhub&fontSize=60)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongHyun99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## AI Study with Python <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="5%"/>
+## <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="3%"/> 1 Day 1 Commit <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="3%"/>
 
   - Machine Learning
   - Data Science
