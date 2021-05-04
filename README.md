@@ -5,7 +5,7 @@
   - Data Science
   - Algorithm
 
-![donghyun's github stats](https://github-readme-stats.vercel.app/api?username=DongHyun99&show_icons=true&include_all_commits=true&theme=dracula)
+![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyun99&show_icons=true&theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&theme=dracula">   
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/DonghyunHan99)](https://www.facebook.com/DonghyunHan99)
