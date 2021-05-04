@@ -5,8 +5,8 @@
   - Data Science
   - Algorithm
 
-![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyun99&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&theme=dracula">   
+![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyun99&show_icons=true&theme=shades-of-purple)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&theme=shades-of-purple">   
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/DonghyunHan99)](https://www.facebook.com/DonghyunHan99)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://https://www.youtube.com/channel/UC4Q1cVDFasoY1W1riv37GEQ)](https://www.youtube.com/channel/UC4Q1cVDFasoY1W1riv37GEQ)
