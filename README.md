@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Donghyun's%20Studyhub&fontAlign=50&fontAlignY=40&fontSize=60&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Donghyun's%20Github&fontAlign=50&fontAlignY=40&fontSize=60&color=gradient)
 ## <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="3%"/> Daily commit <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="3%"/>
 
   - Machine Learning
