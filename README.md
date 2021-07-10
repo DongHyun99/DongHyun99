@@ -29,14 +29,16 @@
 <details>
 <summary>&#128293; <b>Github Streaks: </b></summary>
   <br>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&hide_border=true&theme=buefy" />
+<p align = "center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&hide_border=true&theme=buefy" /></p>
 </details>
 
 <details>
 <summary>&#128171; <b>BaekJoon Stats: </b></summary>
   <br>
+<p align = "center">
 <a href="https://solved.ac/mpolio2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mpolio2" alt="Solved.ac
-프로필"></a>
+  프로필"></a></p>
 </details>
 
 <br>
