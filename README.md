@@ -22,7 +22,7 @@
 <summary>&#128218; <b>Github Stats: </b></summary>
 <br>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=DongHyun99&cache_seconds=1800&include_all_commits=true&theme=buefy&line_height=27" >
+  <img src="https://github-readme-stats.vercel.app/api/?username=DongHyun99&cache_seconds=1800&theme=buefy&line_height=27" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyun99&theme=buefy&langs_count=3">
 </p></details>
 
