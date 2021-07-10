@@ -1,12 +1,44 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Donghyun's%20Github&fontAlign=50&fontAlignY=40&fontSize=60&color=gradient)
-## <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="3%"/> Daily commit <img src="https://user-images.githubusercontent.com/79196616/115438246-21012400-a248-11eb-92f7-bf0f72719471.png" width="3%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=DongHyun%20Github&fontSize=50&rotate=-5)
 
-  - Machine Learning
-  - Data Science
-  - Algorithm
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-![DongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongHyun99&show_icons=true&theme=shades-of-purple)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&theme=shades-of-purple">   
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mpolio2@kyonggi.ac.kr)](mailto:mpolio2@kyonggi.ac.kr)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mpolio2/)](https://www.instagram.com/mpolio2/)
+### ```My Languages and Tools ```  
+
+<p>
+  <code><img height="35" src="image/python.png"></code>
+  <code><img height="35" src="image/java.png" alt="java"></code>
+  <code><img height="35" src="image/C.png" alt="C"></code>
+  <code><img height="35" src="image/scikitlearn.png" alt="scikitlearn"></code>
+  <code><img height="35" src="image/Anaconda.png" alt="Anaconda"></code>  <code><img height="35" src="image/git.png" alt="git"></code>
+  <code><img height="35" src="image/sql.png" alt="sql"></code>
+  <code><img height="35" src="image/Cisco.png" alt="Cisco"></code>
+
+</p>
+
+### Dev Stats:
+
+<details open>
+<summary>&#128218; <b>Github Stats: </b></summary>
+<br>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=DongHyun99&cache_seconds=1800&include_all_commits=true&theme=buefy&line_height=27" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongHyun99&theme=buefy&langs_count=3">
+</p></details>
+
+<details>
+<summary>&#128293; <b>Github Streaks: </b></summary>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&hide_border=true&theme=buefy" />
+</details>
+<br>
+<details>
+<summary>&#128171; <b>BaekJoon Stats: </b></summary>
+<p><a href="https://solved.ac/mpolio2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mpolio2" alt="Solved.ac
+프로필"></a></p>
+</details>
+
+<br>
+
+#
+ <div align="center">
+</div>
