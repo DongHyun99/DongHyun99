@@ -32,7 +32,7 @@
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&hide_border=true&theme=buefy" />
 </p>
 </details>
-<br>
+
 <details>
 <summary>&#128171; <b>BaekJoon Stats: </b></summary>
 <p align="center"><a href="https://solved.ac/mpolio2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mpolio2" alt="Solved.ac
