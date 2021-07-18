@@ -18,7 +18,7 @@
 
 ### Dev Stats:
 
-<details open>
+<details>
 <summary>&#128218; <b>Github Stats: </b></summary>
 <br>
 <p align = "center">
