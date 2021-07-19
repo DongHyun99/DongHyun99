@@ -31,7 +31,7 @@
   <br>
 <p align = "center">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DongHyun99&hide_border=true&theme=buefy" />  
-  <img src="https://github.com/KEJdev/KEJdev/blob/output/github-contribution-grid-snake.gif"/></p>
+  <img src="https://github.com/DongHyun99/DongHyun99/blob/output/github-contribution-grid-snake.gif"/></p>
 </details>
 
 <details>
