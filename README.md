@@ -9,10 +9,12 @@
   <code><img height="35" src="image/python.png"></code>
   <code><img height="35" src="image/java.png" alt="java"></code>
   <code><img height="35" src="image/C.png" alt="C"></code>
-  <code><img height="35" src="image/scikitlearn.png" alt="scikitlearn"></code>
-  <code><img height="35" src="image/Anaconda.png" alt="Anaconda"></code>  <code><img height="35" src="image/git.png" alt="git"></code>
   <code><img height="35" src="image/sql.png" alt="sql"></code>
   <code><img height="35" src="image/Cisco.png" alt="Cisco"></code>
+  <code><img height="35" src="image/Anaconda.png" alt="Anaconda"></code>
+  <code><img height="35" src="image/git.png" alt="git"></code>
+  <code><img height="35" src="image/scikitlearn.png" alt="scikitlearn"></code>
+  <code><img height="35" src="image/pytorch.png" alt="pytorch"></code>
 
 </p>
 
