@@ -15,7 +15,7 @@
   <code><img height="35" src="image/git.png" alt="git"></code>
   <code><img height="35" src="image/scikitlearn.png" alt="scikitlearn"></code>
   <code><img height="35" src="image/pytorch.png" alt="pytorch"></code>
-  <code><img height="35" src="image/openCV.png" alt="openCV"></code>
+  <code><img height="35" src="image/openCV.png" alt="OpenCV"></code>
 
 </p>
 
