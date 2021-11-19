@@ -50,7 +50,7 @@
 </details>
 
 <details>
-<summary>&#128171; <b>Competition: </b></summary>
+<summary>&#127941; <b>Competition: </b></summary>
   <br>  
 
   ### paper
