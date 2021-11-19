@@ -13,9 +13,12 @@
   <code><img height="35" src="image/Cisco.png" alt="Cisco"></code>
   <code><img height="35" src="image/Anaconda.png" alt="Anaconda"></code>
   <code><img height="35" src="image/git.png" alt="git"></code>
+  <code><img height="35" src="image/Android.png" alt="Android"></code>
   <code><img height="35" src="image/scikitlearn.png" alt="scikitlearn"></code>
   <code><img height="35" src="image/pytorch.png" alt="pytorch"></code>
   <code><img height="35" src="image/OpenCV.png" alt="OpenCV"></code>
+  <code><img height="35" src="image/Tensorflow.png" alt="Tensorflow"></code>
+
 
 </p>
 
@@ -44,6 +47,22 @@
 <p align = "center">
 <a href="https://solved.ac/mpolio2"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mpolio2" alt="Solved.ac
   프로필"></a></p>
+</details>
+
+<details>
+<summary>&#128171; <b>Competition: </b></summary>
+  <br>  
+
+  ### paper
+
+  - 한국인터넷정보학회, 심층 신경망을 이용한 GP 기반 소아 골연령 측정 (한동현, 문기렴, 이병대) ```21.10```
+
+  ### Competition  
+
+  - 경기대학교, 교내 프로그래밍 경진대회, (우수상 수상) ```17.06```  
+  - 한국인터넷정보학회, 캡스톤 디자인 및 아이디어 해커톤 (금상 수상) ```21.10```  
+  - 과학기술정보통신부, 2021 공개 SW 개발자대회 (은상수상) ```21.11```  
+  
 </details>
 
 <br>
