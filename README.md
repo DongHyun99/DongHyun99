@@ -63,6 +63,7 @@
   - 한국인터넷정보학회, 캡스톤 디자인 및 아이디어 해커톤 (금상 수상) ```21.10```  
   - 과학기술정보통신부, 2021 공개 SW 개발자대회 (은상 수상) ```21.11```  
   - SW중심대학, 2021 SW상상기업 경진대회 (장려상 수상) ```21.11```  
+  - HealthHub, 2021 HealthHub Datathon: Cephalometric Landmark Detection (우승) ```21.12```  
   
 </details>
 
