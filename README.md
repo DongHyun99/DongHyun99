@@ -49,7 +49,7 @@
   프로필"></a></p>
 </details>
 
-<details open>
+<details>
 <summary>&#127941; <b>Profile: </b></summary>
   <br>  
 
