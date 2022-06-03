@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=DongHyun's%20dev&fontSize=50&rotate=-5)
 
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  
+### Hi there!
 
 
 ### ```Languages and Tools ```  
