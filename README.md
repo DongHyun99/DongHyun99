@@ -16,8 +16,6 @@ Bachelor of Science (B.S) in AI Computer Engineering (Kyonggi Univ.)
 
 </details>  
 
-<br>
-
 <details>
     <summary style="font-size: 20px">&#127763; Papers:</summary>
 <br>
@@ -26,8 +24,6 @@ Bachelor of Science (B.S) in AI Computer Engineering (Kyonggi Univ.)
 - 한국정보기술학회, 세포 계수 측정을 위한 딥러닝 기반 객체탐지 시스템 연구 개발 (한동현, 김민종, 김태강, 박준후, 조수빈, 김상진) (Jun. 2022)  
 
 </details>  
-
-<br>
 
 <details>
     <summary style="font-size: 20px">&#127764; Rewards:</summary>
@@ -42,8 +38,6 @@ Bachelor of Science (B.S) in AI Computer Engineering (Kyonggi Univ.)
 
 </details>  
 
-<br>
-
 <details>
     <summary style="font-size: 20px">&#127765; Experience:</summary>
 <br>
@@ -52,8 +46,6 @@ Bachelor of Science (B.S) in AI Computer Engineering (Kyonggi Univ.)
 - <img height=13 src="image/etri.svg"> 한국전자통신연구원 (ETRI) Research Trainee (Jul. 2022 - Aug. 2022)  
 
 </details>  
-
-<br>
 
 <details>
     <summary style="font-size: 20px">&#127766; Skills: </summary>
