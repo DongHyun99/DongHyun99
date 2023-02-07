@@ -17,15 +17,6 @@ Bachelor of Science (B.S) in AI Computer Engineering (Kyonggi Univ.)
 </details>  
 
 <details>
-    <summary style="font-size: 20px">&#127763; Papers:</summary>
-<br>
-
-- 한국인터넷정보학회, 심층 신경망을 이용한 GP 기반 소아 골연령 측정 (한동현, 문기렴, 이병대) (Oct. 2021)  
-- 한국정보기술학회, 세포 계수 측정을 위한 딥러닝 기반 객체탐지 시스템 연구 개발 (한동현, 김민종, 김태강, 박준후, 조수빈, 김상진) (Jun. 2022)  
-
-</details>  
-
-<details>
     <summary style="font-size: 20px">&#127764; Rewards:</summary>
 <br>
 
