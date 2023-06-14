@@ -9,9 +9,8 @@ Bachelor of Science (B.S) in AI Computer Engineering (Kyonggi Univ.)
 <br>  
 
 - Medical DeepLearning
-- Geospatial DeepLearing
-- Semi-Supervised Learing
-- Generative Adversarial Networks  
+- Geospatial DeepLearning
+- Generative Models
 - Transformer
 
 </details>  
