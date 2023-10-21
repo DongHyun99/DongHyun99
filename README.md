@@ -47,49 +47,20 @@
 <details>
     <summary style="font-size: 20px">🌕 Awards:</summary>
 <br>
-<table style="text-align:center">
-   <tr>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2017_교내_프로그래밍_경진대회_우수상.png"></div></code></td>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_우수사업계획서상.png"></div></code></td>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_장려상.png"></div></code></td>
-        <td style="width: 1</div>80px;"></td>
-   </tr>
-   <tr>
-        <th  style="font-size: 10px; text-align:center"> 교내<br>프로그래밍 경진대회 <br>🏅 우수상 (Jun. 2017)</td>
-        <th  style="font-size: 10px; text-align:center"> 교내<br>SW상상기업 프로그램경진대회<br>🏅 우수사업계획서상 (Nov. 2021)</td>
-        <th  style="font-size: 10px; text-align:center"> 교내<br>SW상상기업 로그램경진대회<br>🏅 장려상 (Nov. 2021)</td>
-        <th></td>
-   </tr>
-</table>
+
+<center><img src="image/Rewards/2017_교내_프로그래밍_경진대회_우수상.png" width="80px"></center>|<center><img src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_우수사업계획서상.png" width="80px"></center>|<center><img src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_장려상.png" width="80px"></center>|<center></center>  
+|---|---|---|---|
+|<center style="font-size:10px; width:180px; font-weight:bold">교내<br>프로그래밍 경진대회 <br>🏅 우수상 (Jun. 2017)</center>|<center style="font-size:10px; width:180px; font-weight:bold">교내<br>SW상상기업 프로그램경진대회<br>🏅 우수사업계획서상 (Nov. 2021)</center>|<center style="font-size:10px; width:180px; font-weight:bold">교내<br>SW상상기업 로그램경진대회<br>🏅 장려상 (Nov. 2021)</center>|<center style="font-size:10px; width:180px; font-weight:bold"></center>|
 
 <br><br>
 
-<table style="text-align:center">
-   <tr>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_캡스톤_디자인_및_아이디어_해커톤_금상.png"></div></code></td>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_공개_SW_개발자대회_은상.png"></div></code></td>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_Healthhub_Datathon_우승.png"></div></code></td>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2022_대학생_논문경진대회_동상.JPG"></div></code></td>
-   </tr>
-   <tr>
-        <th  style="font-size: 10px; text-align:center"> 한국인터넷정보학회<br>캡스톤 디자인 및 아이디어 해커톤<br>🏅 금상 (Oct. 2021)</td>
-        <th  style="font-size: 10px; text-align:center"> 과학기술정보통신부<br>공개 SW 개발자대회<br>🏅 은상 (Nov. 2021)</td>
-        <th  style="font-size: 10px; text-align:center"> (주) HealthHub<br>2021 Healthhub DataThon<br>🏅 우승 (Dec. 2021)</td>
-        <th  style="font-size: 10px; text-align:center"> 한국정보기술학회(KIIT)<br>대학생 논문 경진대회<br>🏅 동상 (Jun. 2022)</td>
-   </tr>
-   <tr>
-        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2023_디지털병리_AI_해커톤_장려상.png"></div></code></td>
-        <td style="width: 180px;"></td>
-        <td style="width: 180px;"></td>
-        <td style="width: 180px;"></td>
-   </tr>
-   <tr>
-        <th  style="font-size: 10px; text-align:center">가톨릭대학교 정보융합진흥원<br>2023 디지털 병리 AI 해커톤<br>🏅 장려상 (Oct. 2023)</td>
-        <th  style="font-size: 10px; text-align:center"></td>
-        <th  style="font-size: 10px; text-align:center"></td>
-        <th  style="font-size: 10px; text-align:center"></td>
-   </tr>
-</table>
+<center><img src="image/Rewards/2021_캡스톤_디자인_및_아이디어_해커톤_금상.png" width="80px"></center>|<center><img src="image/Rewards/2021_공개_SW_개발자대회_은상.png" width="80px"></center>|<center><img src="image/Rewards/2021_Healthhub_Datathon_우승.png" width="80px"></center>|<center><img src="image/Rewards/2022_대학생_논문경진대회_동상.JPG" width="80px"></center>  
+|---|---|---|---|
+|<center style="font-size:10px; width:180px; font-weight:bold">한국인터넷정보학회<br>캡스톤 디자인 및 아이디어 해커톤<br>🏅 금상 (Oct. 2021)</center>|<center style="font-size:10px; width:180px; font-weight:bold">과학기술정보통신부<br>공개 SW 개발자대회<br>🏅 은상 (Nov. 2021)</center>|<center style="font-size:10px; width:180px; font-weight:bold">(주) HealthHub<br>2021 Healthhub DataThon<br>🏅 우승 (Dec. 2021)</center>|<center style="font-size:10px; width:180px; font-weight:bold">한국정보기술학회(KIIT)<br>대학생 논문 경진대회<br>🏅 동상 (Jun. 2022)</center>|
+
+<center><img src="image/Rewards/2023_디지털병리_AI_해커톤_장려상.png" width="80px"></center>|<center></center>|<center></center>|<center></center>  
+|---|---|---|---|
+|<center style="font-size:10px; width:180px; font-weight:bold">가톨릭대학교 정보융합진흥원<br>2023 디지털 병리 AI 해커톤<br>🏅 장려상 (Oct. 2023)</center>|<center style="font-size:10px; width:180px; font-weight:bold"></center>|<center style="font-size:10px; width:180px; font-weight:bold"></center>|<center style="font-size:10px; width:180px; font-weight:bold"></center>|
 
 <br>
 
@@ -115,4 +86,4 @@
 <br><br><br>
 
 - Contact: mpolio2@kyonggi.ac.kr  
-- Blog: [우물안 개구리](https://donghyun99.tistory.com/16)
+- Blog: [우물안 개구리](https://donghyun99.tistory.com/16)  
