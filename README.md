@@ -49,10 +49,10 @@
 <br>
 <table style="text-align:center">
    <tr>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2017_교내_프로그래밍_경진대회_우수상.png"></code></div></td>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_우수사업계획서상.png"></code></div></td>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_장려상.png"></code></div></td>
-        <td style="width: 180px;"></div></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2017_교내_프로그래밍_경진대회_우수상.png"></div></code></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_우수사업계획서상.png"></div></code></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_장려상.png"></div></code></td>
+        <td style="width: 1</div>80px;"></td>
    </tr>
    <tr>
         <th  style="font-size: 10px; text-align:center"> 교내<br>프로그래밍 경진대회 <br>🏅 우수상 (Jun. 2017)</td>
@@ -66,10 +66,10 @@
 
 <table style="text-align:center">
    <tr>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2021_캡스톤_디자인_및_아이디어_해커톤_금상.png"></code></div></td>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2021_공개_SW_개발자대회_은상.png"></code></div></td>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2021_Healthhub_Datathon_우승.png"></code></div></td>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2022_대학생_논문경진대회_동상.JPG"></code></div></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_캡스톤_디자인_및_아이디어_해커톤_금상.png"></div></code></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_공개_SW_개발자대회_은상.png"></div></code></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2021_Healthhub_Datathon_우승.png"></div></code></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2022_대학생_논문경진대회_동상.JPG"></div></code></td>
    </tr>
    <tr>
         <th  style="font-size: 10px; text-align:center"> 한국인터넷정보학회<br>캡스톤 디자인 및 아이디어 해커톤<br>🏅 금상 (Oct. 2021)</td>
@@ -78,7 +78,7 @@
         <th  style="font-size: 10px; text-align:center"> 한국정보기술학회(KIIT)<br>대학생 논문 경진대회<br>🏅 동상 (Jun. 2022)</td>
    </tr>
    <tr>
-        <td style="width: 180px"><div style="text-align:center"><code><img height="100"  src="image/Rewards/2023_디지털병리_AI_해커톤_장려상.png"></code></div></td>
+        <td style="width: 180px"><code><div style="text-align:center"><img height="100"  src="image/Rewards/2023_디지털병리_AI_해커톤_장려상.png"></div></code></td>
         <td style="width: 180px;"></td>
         <td style="width: 180px;"></td>
         <td style="width: 180px;"></td>
