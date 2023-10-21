@@ -48,17 +48,17 @@
     <summary style="font-size: 20px">🌕 Awards:</summary>
 <br>
 
-|<center><img src="image/Rewards/2017_교내_프로그래밍_경진대회_우수상.png" width="200px"></center>|<center><img src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_우수사업계획서상.png" width="200px"></center>|<center><img src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_장려상.png" width="200px"></center>|  
+|<center><img src="image/Rewards/2017_교내_프로그래밍_경진대회_우수상.png" width="150px"></center>|<center><img src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_우수사업계획서상.png" width="150px"></center>|<center><img src="image/Rewards/2021_교내_SW상상기업_프로그램_경진대회_장려상.png" width="150px"></center>|  
 |:---:|:---:|:---:|
 |<center style="font-size:10px; font-weight:bold">교내<br>프로그래밍 경진대회 <br>🏅 우수상 (Jun. 2017)</center>|<center style="font-size:10px; font-weight:bold">교내<br>SW상상기업 프로그램경진대회<br>🏅 우수사업계획서상 (Nov. 2021)</center>|<center style="font-size:10px; font-weight:bold">교내<br>SW상상기업 로그램경진대회<br>🏅 장려상 (Nov. 2021)</center>|  
 
 <br><br>
 
-|<center><img src="image/Rewards/2021_캡스톤_디자인_및_아이디어_해커톤_금상.png" width="200px"></center>|<center><img src="image/Rewards/2021_공개_SW_개발자대회_은상.png" width="200px"></center>|<center><img src="image/Rewards/2021_Healthhub_Datathon_우승.png" width="200px"></center>|<center><img src="image/Rewards/2022_대학생_논문경진대회_동상.png" width="200px"></center>|  
+|<center><img src="image/Rewards/2021_캡스톤_디자인_및_아이디어_해커톤_금상.png" width="150px"></center>|<center><img src="image/Rewards/2021_공개_SW_개발자대회_은상.png" width="150px"></center>|<center><img src="image/Rewards/2021_Healthhub_Datathon_우승.png" width="150px"></center>|<center><img src="image/Rewards/2022_대학생_논문경진대회_동상.png" width="150px"></center>|  
 |:---:|:---:|:---:|:---:|
 |<center style="font-size:10px; font-weight:bold">한국인터넷정보학회<br>캡스톤 디자인 및 아이디어 해커톤<br>🏅 금상 (Oct. 2021)</center>|<center style="font-size:10px; font-weight:bold">과학기술정보통신부<br>공개 SW 개발자대회<br>🏅 은상 (Nov. 2021)</center>|<center style="font-size:10px; font-weight:bold">(주) HealthHub<br>2021 Healthhub DataThon<br>🏅 우승 (Dec. 2021)</center>|<center style="font-size:10px; font-weight:bold">한국정보기술학회(KIIT)<br>대학생 논문 경진대회<br>🏅 동상 (Jun. 2022)</center>|
 
-|<center><img src="image/Rewards/2023_디지털병리_AI_해커톤_장려상.png" width="200px"></center>|  
+|<center><img src="image/Rewards/2023_디지털병리_AI_해커톤_장려상.png" width="150px"></center>|  
 |:---:|
 |<center style="font-size:10px; font-weight:bold">가톨릭대학교 정보융합진흥원<br>2023 디지털 병리 AI 해커톤<br>🏅 장려상 (Oct. 2023)</center>|
 
